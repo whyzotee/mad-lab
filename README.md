@@ -11,6 +11,26 @@
       <a href="https://github.com/whyzotee/stm32-lab/blob/main/LAB_1/Core/Src/main.c#L105-L117">📝 main.c</a>
     </td>
   </tr>
+  <tr>
+    <td>Lab 2</td>
+    <td>
+      <a href="https://github.com/whyzotee/mad-lab/blob/main/LAB_2/Core/Src/main.c#L104-L141">📝 main.c</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Lab 3</td>
+    <td>
+      <a href="https://github.com/whyzotee/mad-lab/blob/main/LAB_3/Core/Src/main.c#L113-L151">📝 main.c</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Lab 4</td>
+    <td>
+      <a href="https://github.com/whyzotee/mad-lab/blob/main/LAB_4/Core/Src/main.c#L266-L300">📝 main.c</a>
+      <br/>
+      <a href="https://github.com/whyzotee/mad-lab/blob/main/LAB_4/Core/Src/stm32f7xx_it.c#L204-L241">📝 stm32f7xx_it.c</a>
+    </td>
+  </tr>
 </table>
 
 ## Using the board NUCLEO-F767ZI
