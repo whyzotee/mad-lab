@@ -1,3 +1,5 @@
 **/Debug/
 **/*.launch
 .metadata
+**/.DS_Store
+**/*.osx.project
